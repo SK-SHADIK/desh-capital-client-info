@@ -6,7 +6,7 @@
     font-family: 'Work Sans', sans-serif;
 }
 body{
-    background: linear-gradient(145deg, lightsalmon, lightskyblue);
+    background: linear-gradient(145deg, #F1E5AC, #90EE90);
     min-height: 100vh;
     display: flex;
     justify-content: center;
@@ -37,13 +37,13 @@ input[type=text], input[type=email], input[type=tel], input[type=submit]{
     font-weight: 500;
 }
 input[type=submit]{
-    background: linear-gradient(145deg, lightsalmon, lightskyblue);
+    background: linear-gradient(145deg, #F1E5AC, #90EE90);
     border: none;
     font-weight: 700;
 }
 input[type=submit]:hover{
     color: #000;
-    background: linear-gradient(145deg, lightskyblue, lightsalmon);
+    background: linear-gradient(145deg, #90EE90, #F1E5AC);
     border-radius: 5px;
 
 }
