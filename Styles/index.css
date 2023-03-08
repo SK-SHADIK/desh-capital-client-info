@@ -51,7 +51,7 @@ input[type=checkbox]{
     width: 18px;
     height: 18px;
     margin: 5px;
-    accent-color: skyblue;
+    accent-color: #90EE90;
 }
 input::placeholder{
     color: #000;
@@ -62,7 +62,7 @@ input::placeholder{
     font-weight: 500;
 }
 .message{
-    color: lightgreen;
+    color: #90EE90;
     padding: 10px;
 }
 @media screen and (max-width: 820px) {
